@@ -1,27 +1,28 @@
 A programação é um ramo importantíssimo no mundo atual e que se faz indispensável em praticamente todas as áreas profissionais. Ela engloba alguns conceitos como:
 
-Algoritmo: O algoritmo é o conjunto de regras e instruções que um programa de computador possui para executar suas funções. De maneira geral, ele inclui uma sequência finita de ações 
-executáveis, também conhecidas como passos, para resolver um problema ou, em ciência da computação, executar uma tarefa. O algoritmo é a sequência de ações e condições que devem ser feitas 
-para resolver o problema, não o programa em si. 
+Algoritmo: O algoritmo é o conjunto de regras e instruções que um programa de computador possui para executar suas funções. De maneira geral, ele inclui uma sequência finita de ações executáveis, também conhecidas como passos, para resolver um problema ou, em ciência da computação, executar uma tarefa. O algoritmo é a sequência de ações e condições que devem ser feitas para resolver o problema, não o programa em si. 
 
-Jurimetria: O conceito de jurimetria combina estatística com o domínio do direito para examinar padrões, tendências e comportamentos no domínio do direito com o objetivo de aumentar a 
-previsibilidade e auxiliar advogados na tomada de decisões. O conceito transforma informações legais em números e estatísticas, permitindo a aplicação de técnicas de análise de dados no 
-campo jurídico. É o uso de metodologias quantitativas para garantir probabilidades mais assertivas e orientar decisões.
-O processo começa com a coleta de dados. Isso pode incluir informações sobre casos judiciais e perfis dos juízes que estão envolvidos no caso. Dessa forma, os profissionais da área de 
-direito recebem insights valiosos depois de processar e analisar as informações com o auxílio de software jurídico.
+Jurimetria: O conceito de jurimetria combina estatística com o domínio do direito para examinar padrões, tendências e comportamentos no domínio do direito com o objetivo de aumentar a previsibilidade e auxiliar advogados na tomada de decisões. O conceito transforma informações legais em números e estatísticas, permitindo a aplicação de técnicas de análise de dados no campo jurídico. É o uso de metodologias quantitativas para garantir probabilidades mais assertivas e orientar decisões. O processo começa com a coleta de dados. Isso pode incluir informações sobre casos judiciais e perfis dos juízes que estão envolvidos no caso. Dessa forma, os profissionais da área de direito recebem insights valiosos depois de processar e analisar as informações com o auxílio de software jurídico.
 
-Neutralidade da Rede: Um princípio fundamental para garantir a liberdade e a equidade na internet é a neutralidade da rede. Ela garante que todos tenham as mesmas chances de acessar e 
-compartilhar informações e conteúdo, independentemente de quem sejam ou do tipo de conteúdo que transmitem. A neutralidade da rede tornou-se uma lei no Brasil em 2014, com a publicação do 
-Marco Civil da Internet. Esta lei serve como a "constituição" da internet no Brasil e estipula no seu artigo 3º que a neutralidade da rede deve ser respeitada.
+Neutralidade da Rede: Um princípio fundamental para garantir a liberdade e a equidade na internet é a neutralidade da rede. Ela garante que todos tenham as mesmas chances de acessar e compartilhar informações e conteúdo, independentemente de quem sejam ou do tipo de conteúdo que transmitem. A neutralidade da rede tornou-se uma lei no Brasil em 2014, com a publicação do Marco Civil da Internet. Esta lei serve como a "constituição" da internet no Brasil e estipula no seu artigo 3º que a neutralidade da rede deve ser respeitada.
 
-Nuvem: Os serviços que são baseados na Web e alojados fora da empresa são conhecidos como nuvem. A infraestrutura de TI necessária para fornecer serviços baseados na nuvem é hospedada 
-em datacenters de empresas como Microsoft, Google e Amazon, entre outras. Quando as informações, que incluem contatos, agendas, e-mails e documentos, estão disponíveis online ou "na nuvem", 
-podem ser acessadas de qualquer lugar com um computador, notebook, tablet, smartphone ou qualquer outro dispositivo conectado à Internet.
+Nuvem: Os serviços que são baseados na Web e alojados fora da empresa são conhecidos como nuvem. A infraestrutura de TI necessária para fornecer serviços baseados na nuvem é hospedada em datacenters de empresas como Microsoft, Google e Amazon, entre outras. Quando as informações, que incluem contatos, agendas, e-mails e documentos, estão disponíveis online ou "na nuvem", podem ser acessadas de qualquer lugar com um computador, notebook, tablet, smartphone ou qualquer outro dispositivo conectado à Internet.
 
-Rede Neural Artificial: Os métodos computacionais conhecidos como redes neurais artificiais usam modelos matemáticos baseados na estrutura neural de organismos inteligentes e extraem 
-conhecimento da experiência. Uma rede neural artificial é composta por várias unidades de processamento com funcionamento bastante simples e pode ter centenas ou milhares de unidades de
-processamento, enquanto o cérebro de um mamífero pode conter bilhões de neurônios. As unidades geralmente são conectadas por canais de comunicação conectados a um peso específico. 
-As unidades operam apenas com dados locais, que são entradas que suas conexões recebem. As interações entre as unidades de processamento de uma rede neural artificial determinam o 
-comportamento inteligente da rede.
+Rede Neural Artificial: Os métodos computacionais conhecidos como redes neurais artificiais usam modelos matemáticos baseados na estrutura neural de organismos inteligentes e extraem conhecimento da experiência. Uma rede neural artificial é composta por várias unidades de processamento com funcionamento bastante simples e pode ter centenas ou milhares de unidades de processamento, enquanto o cérebro de um mamífero pode conter bilhões de neurônios. As unidades geralmente são conectadas por canais de comunicação conectados a um peso específico. As unidades operam apenas com dados locais, que são entradas que suas conexões recebem. As interações entre as unidades de processamento de uma rede neural artificial determinam o comportamento inteligente da rede.
 
+Inteligência Artificial: A inteligência artificial (IA) é a capacidade que uma máquina para reproduzir competências semelhantes às humanas como é o caso do raciocínio, a aprendizagem, o planeamento e a criatividade.
 
+Zero-rating: O Zero Rating é uma prática realizada pelas operadoras e algumas empresas de tecnologia que consiste em permitir o acesso de forma "gratuita", ou sem cobrar o tráfego de dados móveis a alguns serviços online, como apps de rede sociais e mensagens. Pode ser caracterizado como um tratamento privilegiado e não isonômico em relação a outros conteúdos, ferindo, portanto, as regras de neutralidade. 
+
+Variáveis: Uma variável é um espaço na memória do computador destinado a um dado que é alterado durante a execução do algoritmo. Para funcionar corretamente, as variáveis precisam ser definidas por nomes e tipos. É classificado em: inteiros, reais, caracteres e lógicos.
+
+Memória: Memórias são componentes eletrônicos e, portanto, é parte do hardware de um dispositivo, que tem como função armazenar dados diversos, em caráter temporário ou permanente.
+
+Banco de dados: O banco de dados é a organização e armazenagem de informações sobre um domínio específico. De forma mais simples, é o agrupamento de dados que tratam do mesmo assunto, e que precisam ser armazenados para segurança ou conferência futura. 
+
+Referências: Parlamento Europeu - https://www.europarl.europa.eu/topics/pt/article/20200827STO85804/o-que-e-a-inteligencia-artificial-e-como-funciona
+Teletime - https://teletime.com.br/18/06/2024/zero-rating-e-neutralidade-nao-se-misturam-defende-entidade-de-internet/#:~:text=Zero%20rating%20%C3%A9%20a%20pr%C3%A1tica,portanto%2C%20as%20regras%20de%20neutralidade.
+Techtudo - https://www.techtudo.com.br/noticias/2015/05/o-que-e-zero-rating-entenda-polemica-que-envolve-facebook-e-operadoras.ghtml
+People - https://people.com.br/noticias/informatica/o-que-sao-variaveis-e-para-que-elas-servem-na-programacao#:~:text=Uma%20vari%C3%A1vel%20%C3%A9%20um%20espa%C3%A7o,definidas%20por%20nomes%20e%20tipos.
+Hostmidia - https://www.hostmidia.com.br/blog/memoria-o-que-e-para-que-serve/
+Rockcontent - https://rockcontent.com/br/blog/banco-de-dados/
