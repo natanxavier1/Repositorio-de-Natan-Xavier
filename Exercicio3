@@ -1,0 +1,16 @@
+a) A lei brasileira que regula o tratamento e a privacidade de dados pessoais é a Lei Geral de Proteção de Dados Pessoais. Muitas empresas tiveram que se ajustar às novas regras de privacidade de dados impostas pela lei. É o mesmo para os data centers, que são uma coleção de dispositivos usados por uma organização para processar e armazenar dados, sistemas e aplicativos. Mesmo que os dados sejam armazenados na nuvem, é recomendável que um provedor de data center invista em redundância para evitar danos físicos que possam comprometer a proteção dos dados de seus clientes. Além disso, garantir a segurança do local com controles e verificação de acesso é crucial. Já contra a proteção de danos virtuais, é necessário dispor de tecnologias de segurança como criptografia de dados, firewalls e programas antimalware para evitar danos virtuais e dificultar a intercepção de dados. A Lei Geral de Proteção de Dados (LGPD) impõe às organizações mais responsabilidade pelo gerenciamento de dados armazenados, exigindo maior atenção ao mapeamento de dados, políticas de acesso e monitoramento.
+
+b) Um formato aberto indica uma especificação técnica de domínio público usada para a descrição e armazenamento de dados digitais, livre de restrições legais para seu uso. Os formatos abertos permitem que diversos softwares possam implementá-los, independentemente dos direitos de propriedade. O formato proprietário é desenvolvido individualmente ou por uma empresa para seus próprios produtos. É incompatível com produtos de outras empresas. Não há publicação de suas especificações. Tudo permanece codificado e sigiloso. O código fonte não está disponível. Assim, em geral quem usa o formato fica dependente de um programa fornecido pela empresa proprietária.
+
+b.1) Formatos proprietários: DWG - AutoCad Drawing; SWF - Shockwave Flash; DOC - formato proprietário de texto; PPT - formato proprietário de apresentação de slides
+Formatos abertos: OASIS OpenDocument Format for Office Applications (para suites e documentos para escritório); LaTeX (uma linguagem de documentação); Json (uma linguagem de documentação); EPUB (formato de arquivo digital)
+
+b.2) Os formatos de arquivos de dados abertos estão essencialmente relacionados aos dados públicos, pois permitem a disponibilização desses dados para o uso comum de diversas maneiras. Os dados compartilhados podem ser livremente utilizados pelos cidadãos no desenvolvimento de aplicativos, negócios, jornalismo de dados, execução de pesquisas automatizadas sobre finanças públicas, processos eleitorais, ou ainda ferramentas tecnológicas que promovam o controle social.
+
+Referências Bibliográficas:
+Thriveti - https://thriveti.com.br/veja-a-relacao-entre-data-center-e-a-lei-geral-de-protecao-de-dados-lgpd/
+LGPD Brasil - https://www.lgpdbrasil.com.br/veja-quais-sao-os-impactos-da-lgpd-para-os-data-centers/
+Universidade Federal do Pará - https://dicas.ufpa.br/progra/arq-exte.htm
+Biblus - https://biblus.accasoftware.com/ptb/formatos-abertos-e-formatos-proprietarios-como-funciona-e-como-e-constituido-o-arquivo-ifc/
+Fiocruz - https://campusvirtual.fiocruz.br/portal/guiarea/OpenFormats.html
+Dados Abertos Pernambuco - https://www.dadosabertospernambuco.com.br/oquesaodadosabertos
