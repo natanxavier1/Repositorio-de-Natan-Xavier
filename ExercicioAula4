@@ -1,0 +1,30 @@
+JavaScript, Python e C# são linguagens de programação populares, mas têm características diferentes. As aplicações de ciência de dados, inteligência artificial e desenvolvimento web podem se beneficiar do Python, que é conhecido por sua sintaxe simples e legibilidade. C#, uma linguagem de tipagem poderosa, orientada a objetos criada pela Microsoft, é amplamente utilizada na criação de aplicativos Windows, jogos (juntamente com Unity) e sistemas corporativos. JavaScript, por sua vez, é uma linguagem interpretada que é principalmente usada para desenvolvimento web no lado do cliente, permitindo a criação de interfaces dinâmicas e interativas; no entanto, com o advento de plataformas como Node.js, também é usado no lado do servidor. Todas as três linguagens têm bibliotecas e frameworks robustos e suportam programação orientada a objetos, mas Python se destaca pela simplicidade, C# pelo desempenho em ambientes Microsoft, e JavaScript pela onipresença na web.
+
+Código em Python:
+soma = 0
+for numero in range(1, 51):
+    soma += numero
+
+print("A soma de todos os números de 1 a 50 é:", soma)
+
+Código em C#:
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // Número para calcular a raiz quadrada
+        double numero = 225;
+
+        // Calcula a raiz quadrada usando o método Math.Sqrt()
+        double raizQuadrada = Math.Sqrt(numero);
+
+        // Exibe o resultado
+        Console.WriteLine("A raiz quadrada de " + numero + " é: " + raizQuadrada);
+    }
+}
+
+Código em JavaScript:
+// Exibe uma mensagem no console
+console.log("Programação é vida");
