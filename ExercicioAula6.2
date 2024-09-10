@@ -1,0 +1,12 @@
+def imprimir_vogais(frase):
+    vogais = "aeiouAEIOU"  
+    resultado = ""
+
+    for caractere in frase:
+        if caractere in vogais:
+            resultado += caractere
+
+    print("Vogais na frase:", resultado)
+
+frase = "Ibmec Centro"
+imprimir_vogais(frase)
