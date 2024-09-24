@@ -1,0 +1,38 @@
+1) Se as relações estão permeadas pela tecnologia, é preciso utilizar a computação para conhecer as normas, legislar e basicamente realizar tudo que está ligado ao direito. Em síntese, trata de legislar, criar regras e mediar conflitos.
+
+2) 
+a) De maneira geral, ele inclui uma sequência finita de ações executáveis, também conhecidas como passos, para resolver um problema ou, em ciência da computação, executar uma tarefa.
+b) Uma rede global de servidores com armazenamento remoto. Pode ser vista como uma camada de abstração sobre um conjunto de hardwares, que faz com que os enxerguemos como uma coisa só. Conjunto de servidores. 
+c) Servidor é um computador extremamente potente ou um programa. Prestam serviço para clientes.
+d) Ela garante que todos tenham as mesmas chances de acessar e compartilhar informações e conteúdo, independentemente de quem sejam ou do tipo de conteúdo que transmitem. A neutralidade da rede tornou-se uma lei no Brasil em 2014, com a publicação do Marco Civil da Internet.
+e) O arquivo é um conjunto de dados que descreve uma informação.
+
+3) É possível juntar esses conceitos na palavra Internet pois analisamos a partir de diferentes graus de abstração. 
+
+4) Computadores foram inventados primariamente para fazer contas de forma rápida e automatizada. Uma vez criados e programados, realizam tarefas repetitivas de forma muito mais rápida que um ser humano normal, ganhando tempo e aumentar a eficiência.
+
+5) O médico deve ser o responsável, e o algoritmo não pode ser responsabilizado. Na questão do empréstimo, a não concessão do crédito deve ser justificada, e, portanto, o embasamento das decisões da rede neural não se aplica. O modelo da Árvore de Decisão pode ser aplicado aos empréstimos, pois a decisão é justificável.
+
+6) O arquivo é um conjunto de dados que descreve uma informação. “Todo arquivo é binário”, pois os dados são armazenados em linguagem binária. A diferença do arquivo de texto é que a linguagem binária representa somente caracteres. Já no arquivo binário, os 0’s e 1’s podem representar diversas coisas. 
+
+7) O formato proprietário é controlado por uma empresa ou instituição que faz o licenciamento de acordo com seu próprio interesse. No formato aberto, sua especificação é pública, apesar de também serem controlados. Os dados públicos são gerados por ação estatal ou instituição de interesse público e que estão disponíveis para todos. Há uma decisão do TCU que recomenda que os dados públicos devem ser disponibilizados em formato aberto, viabilizando o acesso democrático de todos. 
+
+8) Esses protocolos têm a ver com a publicidade da especificação e a permissão de uso. O equilíbrio entre os dois protocolos permite a capacidade de remuneração das atividades assim como oferece maior possibilidade de acesso. 
+
+9) 
+a) O sistema operacional gerencia o hardware e permite a execução dos programas. O sistema operacional fala diretamente com o hardware enquanto as outras aplicações falam somente com o sistema operacional. É uma interface entre os programas e o hardware. 
+b) Não, existem sistemas como Windows, Linux e MacOS
+c) Não há um consenso acerca da pergunta. A jurisprudência também não é pacificada, contudo, decisões do STJ não consideram venda casada. “Não se pode considerar como operação casada a venda de notebook com o sistema operacional previamente instalado, posto que não é usual a venda de computadores sem sistema operacional, mesmo porque: o sistema operacional é um conjunto de programas básicos e utilitários que fazem o computador funcionar.”
+
+10) 
+a) Sim, datacenters estrangeiros que atuem com dados de indivíduos ou empresas brasileiras estão sujeitos à LGPD.
+b.1) Depende do caso e do provedor, já que majoritariamente, nos aplicativos, a aplicação das diretrizes de comunidade é observada, punindo aqueles que violem essas diretrizes. Entretanto, não necessariamente as diretrizes estarão em conformidade com o ordenamento jurídico. 
+b.2) Nesse mérito, não há uma eficácia satisfatória em relação a esse tipo de conteúdo, pois é frequente ver a livre circulação de fake news destruidoras de reputação sem que a provedora da aplicação tome uma atitude, mostrando a ineficiência, ou talvez, o não interesse em solucionar as questões.
+
+11) 
+a) for e while. 
+b) dois pontos + indentação 
+c) Soma (somar duas variáveis) e concatenação (juntar dois textos)
+d) É um bloco de código reutilizável que executa uma tarefa. 
+e) def + nome 
+f) if/ if-else/ if-elif-else
